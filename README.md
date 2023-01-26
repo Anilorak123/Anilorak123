@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anilorak123
-- 👀 I’m interested in Java, board games
-- 🌱 I’m currently learning Java
-- 📫 How to reach me karolinakuszyk@gmail.com
+- 👋 Hi, I’m @Anilorak123 (Karolina Kuszyk)
+- 👀 I’m interested in Python, board games and art
+- 🌱 I’m currently learning Python
+- 📫 How to reach me kuszykkarolina@gmail.com
